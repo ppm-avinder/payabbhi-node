@@ -2,6 +2,10 @@
 
 Changelog for payabbhi-node.
 
+## [1.3.1] - 2020-06-10
+### Added
+- Support for Payout, Remittance Account
+
 ## [1.3.0] - 2018-13-06
 ### Added
 - Support for Inflow, Outflow and Settlement
